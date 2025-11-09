@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 AI Native Software Development
 
 > **Colearning Agentic AI with Python and TypeScript – The AI & Spec Driven Way**
@@ -180,3 +181,7 @@ The future of software development is collaborative, conversational, and powered
 *Part of **AI Native Software Development** — redefining how we learn, build, and collaborate with intelligent systems.*
 
 **Open Source • Continuously Updated • Community-Driven** 🌍
+=======
+# UI_Test
+Testing
+>>>>>>> 52c2a929267f922da2b0ee4fbdba40438e4a6723
